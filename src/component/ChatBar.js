@@ -30,4 +30,4 @@ const ChatBar = ({ socket }) => {
     )
 }
 
-export default ChatBar
+export default ChatBar;
